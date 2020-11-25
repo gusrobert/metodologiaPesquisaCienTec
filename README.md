@@ -1,6 +1,6 @@
 # Metodologia da Pesquisa Científico Tecnológica
 
-Orientador: Prof.º Giuliano Araújo Bertoti
+Orientador: Prof.º Giuliano Araújo Bertoti </br>
 Aluno: Gustavo Robert Moura da Conceição
 
 ## Definição do problema
