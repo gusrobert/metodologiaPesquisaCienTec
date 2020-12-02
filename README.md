@@ -8,10 +8,10 @@ Aluno: Gustavo Robert Moura da Conceição
 
 ## Por quê este "problema" é de fato um problema?
    O cliente em questão realiza inspeções nos Provedores de Serviço da Navegação Aérea (PSNA) cadastrados com o objetivo de avaliar a conformidade dos serviços prestados. Ao decorrer do tempo se viu a necessidade de informatizar os processos, sendo assim se fez necessária a criação de um sistema que pudesse integrar toda a informação coletada antes, durante e após as inspeções e, disponibilizá-la aos profissionais responsáveis.</br>
-    Se viu a necessidade de integrar os processos com intuito de fornecer a informação de forma precisa, concisa e responsiva.
+    Portanto, se viu a necessidade de integrar os processos com intuito de fornecer a informação de forma precisa, concisa e responsiva.
 
 ## Proposta de solução
-   Para tanto foi projetado o desenvolvimento do Sistema Vigilante, uma aplicação web onde é possível realizar o cadastro de todos os profissionais responsáveis por realizar inspeções, as organizações inspecionadas e demais envolvidos, com diferentes visões do sistema e diferentes níveis de acesso, o cadastro das inspeções e de eventuais não conformidades geradas  no ato da inspeção, acesso ao sistema de estatísticas, onde é possível visualizar os dados referentes às inspeções e às organizações cadastradas, dentre outras funcionalidades a serem descritas ao longo da dissertação.
+   Para tanto foi projetado e desenvolvido o Sistema Vigilante II, uma aplicação web onde é possível realizar o cadastro de todos os profissionais responsáveis por realizar inspeções, as organizações inspecionadas e demais envolvidos, com diferentes visões do sistema e diferentes níveis de acesso, o cadastro das inspeções e de eventuais não conformidades geradas  no ato da inspeção, acesso ao sistema de estatísticas, onde é possível visualizar os dados referentes às inspeções e às organizações cadastradas, dentre outras funcionalidades a serem descritas ao longo da dissertação.
 
 ## Sistema Vigilante II
 
